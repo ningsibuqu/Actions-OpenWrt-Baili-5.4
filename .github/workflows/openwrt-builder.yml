@@ -18,7 +18,7 @@ on:
 
 env:
   REPO_URL: https://github.com/Yuzhii0718/immortalwrt-mt798x-hanwckf
-  REPO_BRANCH: copilot/issue-5-fix-pppoe-issue
+  REPO_BRANCH: pppoe-fix
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: 5.4.config
   DIY_P1_SH: diy-part1.sh
