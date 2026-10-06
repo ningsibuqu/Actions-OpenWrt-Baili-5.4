@@ -17,7 +17,7 @@ on:
   workflow_dispatch:
 
 env:
-  REPO_URL: immortalwrt-mt798x-5.4-2410
+  REPO_URL: https://github.com/ningsibuqu/immortalwrt-mt798x-5.4-2410
   REPO_BRANCH: 2410
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: 5.4.config
